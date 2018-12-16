@@ -7,8 +7,7 @@ mod xypair;
 use crate::day1::*;
 use crate::day2::*;
 use crate::day3::*;
-use crate::day4::*
-;
+use crate::day4::*;
 use std::io;
 use std::env;
 
